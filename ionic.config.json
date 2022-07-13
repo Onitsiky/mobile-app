@@ -1,0 +1,7 @@
+{
+  "name": "onitsiky",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
